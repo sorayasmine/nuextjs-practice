@@ -1,2 +1,2 @@
-# nuextjs-practice
+# nextjs-practice
 Tugas Nuxt JS
